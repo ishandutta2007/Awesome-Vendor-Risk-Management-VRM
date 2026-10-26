@@ -72,45 +72,45 @@ The table below catalogs leading commercial VRM/TPRM platforms, sorted in **desc
 
 Explore sovereign, self-hostable, and code-level tools for vendor security assessment, SBOM component analysis, vulnerability alerting, and GRC automation. 
 
-Repos are listed in **descending order by GitHub star count** ⭐.
+Repos are listed in **descending order by GitHub Stars_Count** ⭐.
 
-1. **[OSV-Scanner](https://github.com/google/osv-scanner)** [![GitHub stars](https://img.shields.io/github/stars/google/osv-scanner?style=social&color=white)](https://github.com/google/osv-scanner/stargazers)  
+1. **[OSV-Scanner](https://github.com/google/osv-scanner)** [![GitHub_Stars](https://img.shields.io/github/stars/google/osv-scanner?style=social&color=white)](https://github.com/google/osv-scanner/stargazers)  
    *Vulnerability scanner for dependencies and software supply chain risk, powered by the Open Source Vulnerabilities (OSV.dev) database.*  
    Essential for validating vendor Software Bills of Materials (SBOMs) in CycloneDX and SPDX formats against known CVEs and GHSAs directly in procurement and CI/CD gates.
 
-2. **[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers)  
+2. **[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub_Stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers)  
    *Comprehensive application vulnerability and risk management orchestration platform by OWASP.*  
    Supports tracking vendor technologies, managing security findings, conducting periodic risk reviews, and aggregating metrics across multi-party software systems.
 
-3. **[Dependency-Track](https://github.com/DependencyTrack/dependency-track)** [![GitHub stars](https://img.shields.io/github/stars/DependencyTrack/dependency-track?style=social&color=white)](https://github.com/DependencyTrack/dependency-track/stargazers)  
+3. **[Dependency-Track](https://github.com/DependencyTrack/dependency-track)** [![GitHub_Stars](https://img.shields.io/github/stars/DependencyTrack/dependency-track?style=social&color=white)](https://github.com/DependencyTrack/dependency-track/stargazers)  
    *Intelligent Component Analysis platform for identifying and reducing software supply chain risk by OWASP.*  
    Enables organizations to consume vendor SBOMs, continuously monitor for third-party component vulnerabilities, track license compliance, and assess supplier pedigree.
 
-4. **[OpenCVE](https://github.com/opencve/opencve)** [![GitHub stars](https://img.shields.io/github/stars/opencve/opencve?style=social&color=white)](https://github.com/opencve/opencve/stargazers)  
+4. **[OpenCVE](https://github.com/opencve/opencve)** [![GitHub_Stars](https://img.shields.io/github/stars/opencve/opencve?style=social&color=white)](https://github.com/opencve/opencve/stargazers)  
    *Self-hosted platform for tracking CVEs and getting real-time alerts on vulnerabilities affecting third-party vendor products.*  
    Create dedicated vendor and product watchlists (e.g., specific VPN gateways, cloud services, and libraries) to receive immediate notifications when critical vulnerabilities are disclosed.
 
-5. **[Probo](https://github.com/getprobo/probo)** [![GitHub stars](https://img.shields.io/github/stars/getprobo/probo?style=social&color=white)](https://github.com/getprobo/probo/stargazers)  
+5. **[Probo](https://github.com/getprobo/probo)** [![GitHub_Stars](https://img.shields.io/github/stars/getprobo/probo?style=social&color=white)](https://github.com/getprobo/probo/stargazers)  
    *Modern self-hostable GRC and compliance automation platform (ISC licensed).*  
    Includes complete vendor/third-party risk management: vendor inventory, automated website risk assessment, DPA/BAA contract tracking, subprocessor discovery, 270+ Model Context Protocol (MCP) tools for AI agents, and a dedicated `prb` CLI.
 
-6. **[GovReady-Q](https://github.com/GovReady/govready-q)** [![GitHub stars](https://img.shields.io/github/stars/GovReady/govready-q?style=social&color=white)](https://github.com/GovReady/govready-q/stargazers)  
+6. **[GovReady-Q](https://github.com/GovReady/govready-q)** [![GitHub_Stars](https://img.shields.io/github/stars/GovReady/govready-q?style=social&color=white)](https://github.com/GovReady/govready-q/stargazers)  
    *Open-source compliance automation server and structured questionnaire engine.*  
    Turns complex vendor risk assessments, data protection impact assessments (DPIAs), and security evaluations into interactive, self-service digital questionnaires for suppliers.
 
-7. **[EU AI Act Toolkit](https://github.com/artemhobotun/EU-AI-Act-Toolkit)** [![GitHub stars](https://img.shields.io/github/stars/artemhobotun/EU-AI-Act-Toolkit?style=social&color=white)](https://github.com/artemhobotun/EU-AI-Act-Toolkit/stargazers)  
+7. **[EU AI Act Toolkit](https://github.com/artemhobotun/EU-AI-Act-Toolkit)** [![GitHub_Stars](https://img.shields.io/github/stars/artemhobotun/EU-AI-Act-Toolkit?style=social&color=white)](https://github.com/artemhobotun/EU-AI-Act-Toolkit/stargazers)  
    *Practical readiness and vendor risk screening toolkit for AI suppliers under the European Union AI Act.*  
    Provides vendor assessment checklists, AI system inventory registers, high-risk classification trees, and third-party AI governance documentation templates.
 
-8. **[Vendor Risk Tracker](https://github.com/prajwal152004/Vendor_Risk_Tracker)** [![GitHub stars](https://img.shields.io/github/stars/prajwal152004/Vendor_Risk_Tracker?style=social&color=white)](https://github.com/prajwal152004/Vendor_Risk_Tracker/stargazers)  
+8. **[Vendor Risk Tracker](https://github.com/prajwal152004/Vendor_Risk_Tracker)** [![GitHub_Stars](https://img.shields.io/github/stars/prajwal152004/Vendor_Risk_Tracker?style=social&color=white)](https://github.com/prajwal152004/Vendor_Risk_Tracker/stargazers)  
    *Third-Party Vendor Risk Management (TPRM) simulation and risk register dashboard for GRC teams.*  
    Calculates inherent and residual vendor risk based on data access levels, business criticality, and security control maturity with Streamlit-powered visualization.
 
-9. **[Vendor Risk Assessment Tool](https://github.com/chrisolowolafe-sys/vendor-risk-assessment-tool)** [![GitHub stars](https://img.shields.io/github/stars/chrisolowolafe-sys/vendor-risk-assessment-tool?style=social&color=white)](https://github.com/chrisolowolafe-sys/vendor-risk-assessment-tool/stargazers)  
+9. **[Vendor Risk Assessment Tool](https://github.com/chrisolowolafe-sys/vendor-risk-assessment-tool)** [![GitHub_Stars](https://img.shields.io/github/stars/chrisolowolafe-sys/vendor-risk-assessment-tool?style=social&color=white)](https://github.com/chrisolowolafe-sys/vendor-risk-assessment-tool/stargazers)  
    *Browser-based interactive vendor security assessment tool.*  
    Includes 29 weighted assessment questions across 6 domains (Data Security, Access Controls, Incident Response, Business Continuity, Compliance, Sub-processors) mapped to ISO 27001:2022, NIST CSF 2.0, SOC 2, and GDPR. All data processes locally in-browser.
 
-10. **[VendorVet](https://github.com/cognis-digital/vendorvet)** [![GitHub stars](https://img.shields.io/github/stars/cognis-digital/vendorvet?style=social&color=white)](https://github.com/cognis-digital/vendorvet/stargazers)  
+10. **[VendorVet](https://github.com/cognis-digital/vendorvet)** [![GitHub_Stars](https://img.shields.io/github/stars/cognis-digital/vendorvet?style=social&color=white)](https://github.com/cognis-digital/vendorvet/stargazers)  
     *Self-hosted vendor risk questionnaire scoring engine and SBOM cross-referencer.*  
     Automates scoring of completed vendor questionnaires across weighted controls, cross-references software bills-of-materials against a bundled offline 262k vulnerability database (OSV/GHSA), and outputs SARIF/JSON for CI/CD procurement pipelines.
 
@@ -138,7 +138,7 @@ Contributions from security analysts, GRC practitioners, and open-source maintai
 3. 📝 Update `README.md` with:
    - Factual description and official link.
    - For SaaS: starting tier price, free tier/trial limit, and company size.
-   - For Open-Source: GitHub star badge with white social style linking to stargazers.
+   - For Open-Source: GitHub Stars_Badge with white social style linking to stargazers.
 4. 🚀 Push changes and submit a Pull Request.
 
 ---
